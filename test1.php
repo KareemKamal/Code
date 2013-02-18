@@ -1,5 +1,5 @@
 <?php 
 
-echo "this test";
+echo "changed";
 
 ?>
